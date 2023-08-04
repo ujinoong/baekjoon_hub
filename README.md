@@ -22,7 +22,7 @@
 ----- | -----
 [1461] 도서관 | [링크](https://github.com/ujinoong/baekjoon_hub/blob/main/%EB%B0%B1%EC%A4%80/Gold/1461.%E2%80%85%EB%8F%84%EC%84%9C%EA%B4%80/%EB%8F%84%EC%84%9C%EA%B4%80.py)
 [1022] 소용돌이 예쁘게 출력하기 | [링크](https://www.naver.com)
-[4485] 녹색 옷 입은 애가 젤다지? | [링크]([https://www.acmicpc.net/problem/4485](https://github.com/ujinoong/studying_hub/tree/main/%EB%B0%B1%EC%A4%80/Gold/4485.%E2%80%85%EB%85%B9%EC%83%89%E2%80%85%EC%98%B7%E2%80%85%EC%9E%85%EC%9D%80%E2%80%85%EC%95%A0%EA%B0%80%E2%80%85%EC%A0%A4%EB%8B%A4%EC%A7%80%EF%BC%9F))
+[4485] 녹색 옷 입은 애가 젤다지? | [링크](https://github.com/ujinoong/studying_hub/tree/main/%EB%B0%B1%EC%A4%80/Gold/4485.%E2%80%85%EB%85%B9%EC%83%89%E2%80%85%EC%98%B7%E2%80%85%EC%9E%85%EC%9D%80%E2%80%85%EC%95%A0%EA%B0%80%E2%80%85%EC%A0%A4%EB%8B%A4%EC%A7%80%EF%BC%9F)
 
 **💎 diamond**
 문제번호 | 링크 
